@@ -1,0 +1,82 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marmeida</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #1c1c1c; /* Dark background for a sleek look */
+            color: #fff; /* White text for contrast */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #4b3f3d; /* Brown header background */
+            color: white;
+            padding: 40px 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 4rem;
+            letter-spacing: 3px;
+            font-weight: bold;
+            color: #fff; /* White color for main title */
+        }
+        header h2 {
+            font-size: 1.8rem;
+            color: #f1c27d; /* Light brown/yellowish color for subtitle */
+            margin-top: 10px;
+        }
+        .logo {
+            margin-top: 20px;
+        }
+        .logo img {
+            width: 150px; /* Adjust size as needed */
+            height: auto;
+        }
+        main {
+            padding: 20px;
+        }
+        .social-links a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #f1c27d; /* Light brown/yellowish color for links */
+            font-size: 1.2rem;
+        }
+        .social-links a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #aaa; /* Light grey color for footer text */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Marmeida</h1>
+        <h2>Sports Videographer</h2>
+        <div class="logo">
+            <!-- Replace with your actual logo image -->
+            <img src="your-logo.png" alt="Marmeida Logo">
+        </div>
+    </header>
+    <main>
+        <p>Your one-stop solution for creative media and video production services.</p>
+        <div class="social-links">
+            <h2>Follow Us</h2>
+            <a href="https://www.instagram.com/marmedia._/" target="_blank">Instagram</a>
+            <a href="https://mediabymar.myportfolio.com/work" target="_blank">Portfolio</a>
+        </div>
+    </main>
+    <footer>
+        &copy; 2024 Marmeida. All rights reserved.
+    </footer>
+</body>
+</html>
